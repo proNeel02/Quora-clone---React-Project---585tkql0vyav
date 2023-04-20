@@ -5,7 +5,7 @@ import AssignmentTurnedInOutlinedIcon from "@mui/icons-material/AssignmentTurned
 import PeopleAltOutlinedIcon from "@mui/icons-material/PeopleAltOutlined";
 import NotificationsOutlinedIcon from "@mui/icons-material/NotificationsOutlined";
 import SearchIcon from "@mui/icons-material/Search";
-import { Avatar, Input, Link } from "@mui/material";
+import { Avatar, Input} from "@mui/material";
 import LanguageIcon from "@mui/icons-material/Language";
 import { Button } from "@mui/material";
 import "../Css/Navbar.css";
